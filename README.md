@@ -18,7 +18,6 @@ This topic is related to machine learning and data mining through time-series re
 | Artifact | Link |
 |---|---|
 | Survey notes and analysis | [paper/](paper/) |
-| Original Medium-style article | [article/](article/) |
 | Slide deck | [slides/](slides/) |
 | Presentation video | [video/](video/) |
 | Figures and visualizations | [images/](images/) |
@@ -41,7 +40,6 @@ The original article explains the main ideas in accessible language, including m
 .
 ├── README.md
 ├── paper/
-├── article/
 ├── slides/
 ├── video/
 ├── images/
