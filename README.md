@@ -26,9 +26,9 @@ This topic is related to machine learning and data mining through time-series re
 
 ## Article
 
-The original article will explain the main ideas in accessible language, including model architectures, datasets, evaluation metrics, experimental findings, ablation studies, and personal observations.
+The original article explains the main ideas in accessible language, including model architectures, datasets, evaluation metrics, experimental findings, ablation studies, and personal observations.
 
-- Medium article: To be added
+- Medium article: [What I Learned About Time-Series Foundation Models](https://medium.com/@liuyiyi.jin/what-i-learned-about-time-series-foundation-models-8911a4db7359?sharedUserId=liuyiyi.jin)
 
 ## Presentation
 
